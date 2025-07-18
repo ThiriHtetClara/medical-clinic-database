@@ -3,7 +3,7 @@
 A comprehensive SQL database system for managing medical clinic operations including patient records, appointments, billing, and staff management.
 
 ## Overview
-This database system was developed as a collaborative project, supporting essential clinic operations and providing analytical insights for improved patient care and operational efficiency. The project uses simulated data to demonstrate database functionality while maintaining privacy and compliance standards.
+This database system was developed as a collaborative project for a graduate-level SQL databases course, demonstrating teamwork and comprehensive database design skills. This system was also developed for supporting essential clinic operations and providing analytical insights for improved patient care and operational efficiency. The project uses simulated data to demonstrate database functionality while maintaining privacy and compliance standards.
 
 ## Database Schema
 The database consists of 10 interconnected tables:
@@ -60,7 +60,7 @@ The database supports various analytical queries including:
 4. Execute analytical queries for reporting
 
 ## Project Details
-**Development**: Collaborative team project  
+**Development**: Collaborative group project  
 **Technology Stack**: MySQL, SQL DDL/DML/DQL  
 **Focus**: Healthcare database management and analytics  
 **Date**: March 2025
